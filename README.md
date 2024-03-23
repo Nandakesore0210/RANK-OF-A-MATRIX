@@ -24,7 +24,7 @@ To write a python program to find the rank of a matrix
 ```
 ## Output:
 
-![alt text](<WhatsApp Image 2024-03-04 at 09.10.56_6ac77973.jpg>)
+![alt text](<Screenshot 2024-03-23 210450.png>)
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
